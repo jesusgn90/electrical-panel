@@ -1,4 +1,4 @@
-# Test equipment cabinet
+# Test equipment enclosure
 
 <img src="pictures/vista-3d.jpg" width="500"/>
   
@@ -11,7 +11,6 @@ Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Auto
 
 ### Materials  
 
-TO-DO
 
 ### Operating Instructions  
 
